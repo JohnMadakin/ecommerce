@@ -1,2 +1,2 @@
 # Aador API
-An ecommerce site written in go
+An ecommerce api written in go
